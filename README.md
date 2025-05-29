@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi there! My name is Yang Yang (杨阳),
+
+- 🔭 I’m currently a Ph.D. student advised by [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/) and [Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) at [Zhejiang University](https://www.zju.edu.cn/english/). Now I am a research intern at the [vivo Camera Research Lab](https://github.com/vivoCameraResearch), led by [Peng-Tao Jiang](https://pengtaojiang.github.io/).
+- 🌱 My research fields include computer vision and generative models.
+- 📫 How to reach me: yangyang98 (at) zju.edu.cn
+
+[[Google Scholar]](https://scholar.google.com/citations?user=Fq7jXZ4AAAAJ&hl=zh-CN)
